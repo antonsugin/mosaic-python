@@ -1,9 +1,13 @@
 import sys
+
 from PIL import Image
 img = Image.open("im1.jpg")
+
 import mosaic
+
 pic = mosaic.build_tile_base('images',40)
 pic1 = mosaic.load_image("im1.jpg")
+
 from pprint import pprint
 
 
