@@ -1,3 +1,5 @@
 # Mosaic 
 
-Makes the target image mosaic from pther small images.
+    ## Python script can be run through PyCharm
+
+    Makes the target image mosaic from other small images.
